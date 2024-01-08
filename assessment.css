@@ -1,0 +1,23 @@
+.subjectHeader {
+	color: red;
+	font-family: sans-serif;
+}
+
+#scoreBoard {
+	border: solid;
+	color: black;
+	text-align: center;
+}
+
+#teamRoster li {
+	list-style-type: square;
+}
+
+.hyperLink:hover {
+	background-color: teal;
+	text-decoration: none;
+}
+body > blockquote {
+	background-color: rosybrown;
+	color: lightgreen;
+}
