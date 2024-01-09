@@ -9,6 +9,11 @@
 	text-align: center;
 }
 
+#scoreBoard thead{
+	background-color: black;
+	color: red;
+}
+
 #teamRoster li {
 	list-style-type: square;
 }
